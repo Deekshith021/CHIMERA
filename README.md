@@ -111,12 +111,6 @@ JWT_SECRET=supersecret
 
 ✅ Scene previews & retries
 
-🔜 Cloud deployment
-
-🔜 Credits / billing
-
-🔜 Team collaboration
-
 👨‍💻 Author
 Deekshith K V
 
