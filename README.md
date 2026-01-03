@@ -96,12 +96,7 @@ arduino
 
 
 http://localhost:5173
-🔑 Environment Variables
-Create .env (DO NOT COMMIT):
 
-OPENAI_API_KEY=your_openai_key
-DATABASE_URL=postgresql://user:password@localhost/chimera
-JWT_SECRET=supersecret
 
 
 📌 Status
